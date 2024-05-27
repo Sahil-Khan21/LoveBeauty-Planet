@@ -1,0 +1,48 @@
+.valueContainer{
+    padding: 20px 70px 0;
+}
+.textContainer{
+    text-align: center;
+}
+.blog_title_container{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.valueContainerTitle{
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.page{
+    padding-top: 20px;
+    /* padding: 20px 70px 0; */
+}
+/* .page_container{
+    margin-right: 20px;
+} */
+
+.page_img img{
+    width: 100%;
+}
+.page_text{
+    padding: 20px;
+    min-height: 200px;
+    position: relative;
+    color: #fff;
+}
+.slick_cstm{
+    width: 33%;
+}
+
+.page_container{
+    padding: 0 15px 0 0;
+    margin-bottom: 20px;
+}
+.custom-slick .slick-slide{
+    margin: 0 20px;
+}
+.discover{
+    position: absolute;
+    bottom: 20px;
+}

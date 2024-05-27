@@ -1,0 +1,12 @@
+/* @import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css'; */
+
+.slick-list{
+    overflow: visible ;
+}
+.slick-slider{
+    position: relative;
+}
+.slick-prev:before{
+    position: absolute;
+}

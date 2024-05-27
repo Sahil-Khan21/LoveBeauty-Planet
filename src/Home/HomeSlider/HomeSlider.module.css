@@ -1,0 +1,12 @@
+
+.slider_container{
+  max-width: 100%; /* Adjust this as needed */
+    margin: 0 auto;
+}
+.image_container{
+    text-align: center;
+}
+.image_container img{
+    max-width: 100%;
+    height: auto;
+}
